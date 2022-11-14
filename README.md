@@ -1,19 +1,14 @@
 # D-Blog
 
 Simple blog on django framework.
-Sqlite DB.
-
-Deployed on https://www.pythonanywhere.com
 
 
+### Deployed [here](http://valikk.pythonanywhere.com/)
 
-http://valikk.pythonanywhere.com/
+#### For using all CRUD functionality, please login.
 
+login:```guest```
 
-For using all CRUD functionality, please login.
-
-login : guest
-
-password : guestguest123
+password:```guestguest123```
 
 
